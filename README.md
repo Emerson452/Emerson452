@@ -20,6 +20,6 @@ I also practice blockchain development.
 
 **•** Smart contracts.
 #
-📭 You can contact me on [linkdin]([mailto:emersonfrancisco452@gmail.com](https://www.linkedin.com/in/emerson-francisco-969702216/)) or via my [email](mailto:emersonfrancisco452@gmail.com)!
+📭 You can contact me on [linkdin](https://www.linkedin.com/in/emerson-francisco-969702216/) or via my [email](mailto:emersonfrancisco452@gmail.com)!
 
 👨🏻‍💻 Open to work 
