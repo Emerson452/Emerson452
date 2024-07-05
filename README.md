@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Emerson Francisco
 
-<!--
-**Emerson452/Emerson452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Engineer
 
-Here are some ideas to get you started:
+Based in Paris, I'm a full-stack developer specializing in front-end development. 
+I also practice blockchain development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-francisco-969702216/)
+
+### 💻 Development
+
+**• Stack**: React, Next, TypeScript, Solidity
+
+### 🔎 Expertises
+**•** Front-End engineering.
+
+**•** Design system development, storybook, style-dictionary.
+
+**•** CLI.
+
+**•** Smart contracts.
+#
+📭 You can contact me on linkdin or via my email!
+
+👨🏻‍💻 Open to work 
