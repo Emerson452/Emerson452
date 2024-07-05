@@ -1,4 +1,4 @@
-# Hi there, I'm Emerson Francisco
+# Hi there, I'm Emerson Francisco! 👋
 
 ### Front-End Engineer
 
