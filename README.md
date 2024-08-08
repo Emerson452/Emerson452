@@ -3,16 +3,17 @@
 ### Front-End Engineer
 
 Based in Paris, I'm a full-stack developer specializing in front-end development. 
-I also practice blockchain development.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-francisco-969702216/)
 
 ### 💻 Development
 
-**• Stack**: React, Next, TypeScript, Solidity
+**• Stack**: React, TypeScript, Node.js, Solidity, Ethers
 
 ### 🔎 Expertises
 **•** Front-End engineering.
+
+**•** Full Stack development.
 
 **•** Design system development, storybook, style-dictionary.
 
