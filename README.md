@@ -13,7 +13,7 @@ Based in Paris, I'm a full-stack developer specializing in front-end development
 ### 🔎 Expertises
 **•** Front-End development.
 
-**•** Full Stack development.
+**•** Back-End development.
 
 **•** Design system development, storybook, style-dictionary.
 
