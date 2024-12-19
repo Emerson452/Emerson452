@@ -19,7 +19,7 @@ Based in Paris, I'm a full-stack developer specializing in front-end development
 
 **•** CLI.
 
-**•** Smart contracts.
+**•** Blockchain development, smart contracts.
 #
 📭 You can contact me on [linkdin](https://www.linkedin.com/in/emerson-francisco-969702216/) or via my [email](mailto:emersonfrancisco452@gmail.com)!
 
