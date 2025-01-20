@@ -1,6 +1,5 @@
 # Hi there, I'm Emerson Francisco! 👋
 
-### Front-End Engineer
 
 Based in Paris, I'm a full-stack developer specializing in front-end development. 
 
