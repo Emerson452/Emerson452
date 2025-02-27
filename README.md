@@ -7,7 +7,7 @@ Based in Paris, I'm a full-stack developer specializing in front-end development
 
 ### 💻 Development
 
-**• Stack**: React, TypeScript, Node.js, Solidity, Ethers
+**• Stack**: React, TypeScript, Node.js, Bun, Solidity, Ethers
 
 ### 🔎 Expertises
 **•** Front-End development.
