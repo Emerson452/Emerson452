@@ -7,7 +7,7 @@ Based in Paris, I'm a full-stack developer specializing in front-end development
 
 ### 💻 Development
 
-**• Stack**: React, TypeScript, Node.js, Bun, Solidity, Ethers
+**• Stack**: React, TypeScript, Node.js, Bun.
 
 ### 🔎 Expertises
 **•** Front-End development.
@@ -18,7 +18,6 @@ Based in Paris, I'm a full-stack developer specializing in front-end development
 
 **•** CLI.
 
-**•** Blockchain development, smart contracts.
 #
 📭 You can contact me on [linkdin](https://www.linkedin.com/in/emerson-francisco-969702216/) or via my [email](mailto:emersonfrancisco452@gmail.com)!
 
